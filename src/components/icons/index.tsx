@@ -1,0 +1,6 @@
+export * from './DashboardIcon'
+export * from './DocumentReceivedIcon'
+export * from './DocumentSentIcon'
+export * from './DocumentCreateIcon'
+export * from './TemplateIcon'
+export * from './DraftIcon'
